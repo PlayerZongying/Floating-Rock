@@ -1,0 +1,1 @@
+1. Open with vscode, run: `npm install`, to install packages2. Run: `npm run dev`, wait for seconds the page will be on the local host port3. After changing code, you can run `npm run build` to generated the build file in the '/dist'4. copy the 3 files start with "bundle" (and 2 files start with main.css if css is modified) to the "jj-octopus-site/public/Info"
